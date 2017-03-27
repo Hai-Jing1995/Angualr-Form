@@ -1,0 +1,34 @@
+.wrapper{
+
+	width: 200px;
+	margin: 30px auto;
+
+}
+
+/*错误信息*/
+input.error{
+
+	border: 1px solid #a10;
+
+}
+
+.error{
+
+	color: #a10;
+
+}
+
+/*输入正确的对勾*/
+.input-result{
+
+	position: relative;
+	left: 180px;
+	top: -27px;
+
+}
+
+.success{
+
+	color: #67b168;
+
+}
